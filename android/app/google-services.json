@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010647103548",
+    "project_id": "intolergy",
+    "storage_bucket": "intolergy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010647103548:android:dc790bcc7d0669ec32ab39",
+        "android_client_info": {
+          "package_name": "com.example.intolergy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxEwv9uYBpZNXqLgQUFmEgqyAI2axA3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

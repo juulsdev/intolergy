@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCBCis_OzJ9FdF9LsHaPkdP9fpFZs8IP7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1010647103548</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.intolergy.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>intolergy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>intolergy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1010647103548:ios:ed20ab9148610f4f32ab39</string>
+</dict>
+</plist>

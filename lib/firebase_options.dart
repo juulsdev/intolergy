@@ -67,6 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1010647103548',
     projectId: 'intolergy',
     storageBucket: 'intolergy.appspot.com',
+    iosClientId: '1010647103548-qs49e1ad2q13sr3n6vupkaulch1938cj.apps.googleusercontent.com',
     iosBundleId: 'com.example.intolergy',
   );
 
@@ -76,6 +77,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '1010647103548',
     projectId: 'intolergy',
     storageBucket: 'intolergy.appspot.com',
+    iosClientId: '1010647103548-csb061c2po915kcrl03injvgdkp1kvc1.apps.googleusercontent.com',
     iosBundleId: 'com.example.intolergy.RunnerTests',
   );
 }

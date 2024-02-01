@@ -12,7 +12,12 @@
           "package_name": "com.example.intolergy"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1010647103548-8jh45ck36faebqoijq0j73422in4068j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBTxEwv9uYBpZNXqLgQUFmEgqyAI2axA3Q"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010647103548-8jh45ck36faebqoijq0j73422in4068j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010647103548-csb061c2po915kcrl03injvgdkp1kvc1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.intolergy.RunnerTests"
+              }
+            }
+          ]
         }
       }
     }

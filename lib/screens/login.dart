@@ -40,7 +40,7 @@ class _LoginPageState extends State<LoginPage> {
         height: 50,
         child: SignInButton(
           Buttons.google,
-          text: "Sign up with Google",
+          text: "Unete con Google",
           onPressed: _handleGoogleSignIn,
         ),
       ),
